@@ -38,12 +38,12 @@ aside {
 
 @font-face {
   font-family: moonlight;
-  src: url(Moon Light.otf);
+  src: url(Moon_Light.otf);
   font-weight: normal;
 }
 
 @font-face {
   font-family: moonbold;
-  src: url(Moon Bold.otf);
+  src: url(Moon_Bold.otf);
   font-weight: bold;
 }
