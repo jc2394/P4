@@ -3,7 +3,11 @@ html {
 	background-color: white;
 }
 
-aside {
+.heading{
+	
+}
+
+.bodyaside {
   height: 100vh;
   width: 300px;
   position: fixed;
@@ -19,7 +23,7 @@ aside {
   font-size: 16px;
   line-height: 1.5; }
 
-aside footer {
+.bodyaside .asidefooter {
     font-family: moonlight;
     font-weight: 100;
     font-size: 14px;
