@@ -21,6 +21,7 @@ aside {
 
 .footer {
     font-family: moonlight;
+    font-weight: 100;
     font-size: 14px;
     padding-left: 30px;
     position: absolute;
@@ -37,13 +38,14 @@ aside {
 }
 
 @font-face {
-  font-family: moonlight;
-  src: url(Moon_Light.otf);
-  font-weight: normal;
+  font-family: 'moonlight';  
+  src: url('Moon_Light.otf');
+  font-style: normal;
+  font-weight: 100;
 }
 
 @font-face {
-  font-family: moonbold;
-  src: url(Moon_Bold.otf);
+  font-family: 'moonbold';
+  src: url('Moon_Bold.otf');
   font-weight: bold;
 }
