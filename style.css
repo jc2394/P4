@@ -35,4 +35,14 @@ aside {
         width: 100%; }
 }
 
- 
+@font-face {
+  font-family: moonlight;
+  src: url(Moon Light.otf);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: moonbold;
+  src: url(Moon Bold.otf);
+  font-weight: bold;
+}
