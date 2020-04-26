@@ -10,7 +10,14 @@ html {
 	font-size: 20px;
 }
 
-
+a {
+  -webkit-transition: .3s all ease;
+  -o-transition: .3s all ease;
+  transition: .3s all ease;
+  color: #1FAD9F; }
+  a:hover {
+    text-decoration: none;
+    color: #1FAD9F; }
 
 .bodyaside {
   height: 100vh;
