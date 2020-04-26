@@ -29,7 +29,7 @@ html {
   line-height: 1.5; }
 
 .bodyaside .asidefooter {
-    font-family: moonlight;
+    font-family: moonbold;
     font-weight: 100;
     font-size: 14px;
     padding-left: 30px;
@@ -52,7 +52,6 @@ html {
   font-family: 'moonlight';  
   src: url('Moon_Light.otf');
   font-style: normal;
-  font-weight: 100;
 }
 
 @font-face {
