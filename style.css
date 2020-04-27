@@ -74,8 +74,16 @@ a {
 	height: 200px;
 }
 .footer{
-	padding-down: 0px;
 	height: 200px;
+	position: fixed;
+	background: #fff;
+	font-size: 16px;
+	color: black;
+  	left: 0;
+  	bottom: 0;
+  	width: 100%;
+  	text-align: center;
+}
 }
 .footer p{
 	font-family: moonbold;
