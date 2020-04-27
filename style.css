@@ -73,24 +73,18 @@ a {
 	width: 266px;
 	height: 200px;
 }
-.footer{
-	height: 200px;
-	position: fixed;
-	background: #fff;
-	font-size: 16px;
-	color: black;
-  	left: 0;
-  	bottom: 0;
-  	width: 100%;
-  	text-align: center;
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 }
-}
-.footer p{
-	font-family: moonbold;
-    font-weight: 100;
-    font-size: 14px;
-    padding-left: 30px;
-}
+
+
 
 @font-face {
   font-family: 'moonlight';  
