@@ -81,8 +81,9 @@ a {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: red;
-  color: white;
+  background-color: #1FAD9F;
+  color: black;
+  font-family: moonbold;
   text-align: center;
 }
 
