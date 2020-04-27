@@ -77,6 +77,12 @@ a {
 	padding-down: 0px;
 	height: 200px;
 }
+.footer p{
+	font-family: moonbold;
+    font-weight: 100;
+    font-size: 14px;
+    padding-left: 30px;
+}
 
 @font-face {
   font-family: 'moonlight';  
