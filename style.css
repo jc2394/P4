@@ -73,7 +73,10 @@ a {
 	width: 266px;
 	height: 200px;
 }
-
+.footer{
+	padding-down: 0px;
+	height: 200px;
+}
 
 @font-face {
   font-family: 'moonlight';  
