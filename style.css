@@ -43,7 +43,7 @@ a:hover {
     font-family: moonbold;
     font-weight: 100;
     font-size: 14px;
-    position: center;
+    text-align: center;
     position: absolute;
     bottom: 20px; 
 }
