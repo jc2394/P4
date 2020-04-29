@@ -100,7 +100,7 @@ a:hover {
 
 .imagelist a{
 	margin: 10px;
-	border: 4px solid #1FAD9F;
+	
 	display: inline-block;
 	width: 266px;
 	height: 200px;
@@ -108,7 +108,7 @@ a:hover {
 
 .footer {
   position: fixed;
-  left: 0;
+  left: 120px;
   bottom: 0;
   width: 100%;
   background-color: #1FAD9F;
