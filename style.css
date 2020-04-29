@@ -17,9 +17,10 @@ a {
   color: black; 
 }
 
-  a:hover {
+a:hover {
     text-decoration: none;
-    color: #1FAD9F; }
+    color: #1FAD9F; 
+}
 
 .bodyaside {
   height: 100vh;
@@ -28,11 +29,11 @@ a {
   top: 0;
   float: left;
   min-height: 500px;
-  overflow-y: scroll;
+  overflow-y: auto;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  background: #fff;
+  background: white;
   z-index: 10;
   font-size: 16px;
   line-height: 1.5; 
@@ -48,14 +49,18 @@ a {
 }
 
 .list{
- 	padding-left: 30px;
+ 	padding-left: 20px;
+	font-family: moonlight;
+	font-size: 14px;
 	padding: 0;
 	margin: 0 0 10px 0;
 	display: block;
         list-style: none;
         float: left;
-        width: 100%; }
+        width: 100%;
+	list-style-type: none;
 }
+
 .main{
 	margin:0;
 	padding-left: 300px;
