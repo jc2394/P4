@@ -27,6 +27,7 @@ a:hover {
   width: 300px;
   position: fixed;
   top: 0;
+  left: 0;
   float: left;
   min-height: 500px;
   overflow-y: scroll;
