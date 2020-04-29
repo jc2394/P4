@@ -83,9 +83,9 @@ a:hover {
   display: block;
 }
 
-.dropdown-content a:hover {background-color: white;}
+.dropdown-content a:hover {color: #1FAD9F;}
 .dropdown:hover .dropdown-content {display: block;}
-.dropdown:hover .dropbtn {background-color: white;}
+.dropdown:hover .dropbtn {color: #1FAD9F; }
 .main{
 	margin:0;
 	padding-left: 300px;
