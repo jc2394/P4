@@ -109,6 +109,13 @@ a:hover {
 	height: 200px;
 }
 
+.description {
+  padding-left: 450px;
+  position: absolute;
+  padding-up: 200px;
+  
+}
+
 .footer {
   position: fixed;
   left: 0px;
