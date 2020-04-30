@@ -89,6 +89,7 @@ a:hover {
 .dropdown-content a:hover {color: #1FAD9F;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {color: #1FAD9F; }
+
 .main{
 	margin:0;
 	padding-left: 300px;
@@ -103,7 +104,6 @@ a:hover {
 
 .imagelist a{
 	margin: 10px;
-	
 	display: inline-block;
 	width: 266px;
 	height: 200px;
@@ -134,7 +134,12 @@ a:hover {
   text-align: center;
 }
 
-
+.imagesnjit {
+  padding-top: 90px;
+  padding-left: 770px;
+  width: 400px;
+ 
+}
 
 @font-face {
   font-family: 'moonlight';  
