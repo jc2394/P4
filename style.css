@@ -144,6 +144,12 @@ a:hover {
  
 }
 
+.columntools{
+  padding-top: 50px;
+  width: 260px;
+  font-family: moonbold;
+}
+
 @font-face {
   font-family: 'moonlight';  
   src: url('Moon_Light.otf');
