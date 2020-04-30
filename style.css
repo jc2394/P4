@@ -65,6 +65,7 @@ a:hover {
   position: relative;
   display: inline-block;
   font-family: moonbold;
+  padding-left: 75px;
 }
 
 .dropdown-content {
