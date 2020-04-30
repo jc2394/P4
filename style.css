@@ -160,6 +160,17 @@ a:hover {
   margin-right: 20px;
   font-family: moonbold;
 }
+
+.hobbiestools {
+  float: left;
+  width: 360px;
+  padding: 10px;
+  height: 900px; 
+  text-align: center;
+  margin-right: 20px;
+  font-family: moonbold;
+}
+
 .rowtools:after {
   content: "";
   display: table;
