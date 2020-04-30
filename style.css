@@ -155,7 +155,6 @@ a:hover {
 }
 .rowtools:after {
   content: "";
-  padding-left: 300px;
   display: table;
   clear: both;
 }
