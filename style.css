@@ -58,6 +58,7 @@ a:hover {
   border: none;
   cursor: pointer;
   font-family: moonbold;
+  text-align: center;
 }
 
 .dropdown {
