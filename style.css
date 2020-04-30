@@ -102,6 +102,13 @@ a:hover {
 
 }
 
+.toolsbox{
+  padding-left: 350px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+
 .imagelist a{
 	margin: 10px;
 	display: inline-block;
