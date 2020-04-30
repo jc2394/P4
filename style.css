@@ -144,10 +144,18 @@ a:hover {
  
 }
 
-.columntools{
-  padding-top: 50px;
+.columntools {
+  float: left;
   width: 260px;
-  font-family: moonbold;
+  padding: 10px;
+  height: 900px; 
+  text-align: center;
+  margin-right: 20px;
+}
+.rowtools:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 @font-face {
