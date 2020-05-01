@@ -103,9 +103,10 @@ a:hover {
 
 .toolsbox{
   padding-left: 350px;
-  padding-top: 50px;
+  padding-top: 20px;
   padding-bottom: 0px;
   margin: 10px;
+  width: 100%
 }
 
 
