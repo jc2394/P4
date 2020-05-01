@@ -179,7 +179,13 @@ a:hover {
 
 
 /* Contact Form */
+.social{
+	font-family: moonlight;
+	font-size: 18px;
+	padding-left: 350px;
+	width: 1000px;
 
+}
 	
 /* Contact Form */
 
