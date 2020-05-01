@@ -176,6 +176,52 @@ a:hover {
   clear: both;
 }
 
+
+
+/* Contact Form */
+
+input[type=text], select, textarea {
+  width: 500px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  font-family: moonbold;
+}
+
+.contactform{
+  padding-left: 16px;
+  font-size: 20px;
+	font-family: moonbold;
+}
+
+input[type=submit] {
+  background-color: #1FAD9F;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: moonbold;
+}
+
+input[type=submit]:hover {
+  background-color: #1FAD9F;
+  font-family: moonbold;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: white;
+  padding: 20px;
+  text-align: left;
+  font-family: moonbold;
+
+
+
 @font-face {
   font-family: 'moonlight';  
   src: url('Moon_Light.otf');
