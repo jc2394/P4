@@ -103,8 +103,9 @@ a:hover {
 
 .toolsbox{
   padding-left: 350px;
-  padding-top: 0px;
+  padding-top: 50px;
   padding-bottom: 0px;
+  margin: 10px;
 }
 
 
@@ -152,9 +153,9 @@ a:hover {
 
 .columntools {
   float: left;
-  width: 260px;
+  width: 300px;
   padding: 10px;
-  height: 900px; 
+  height: 1200px; 
   text-align: center;
   margin-right: 20px;
   font-family: moonbold;
