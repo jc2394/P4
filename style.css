@@ -179,8 +179,31 @@ a:hover {
 
 
 /* Contact Form */
+.contactform{
+  padding-left: 16px;
+  font-size: 20px;
+}
 
+input[type=submit] {
+  background-color: #1FAD9F;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
 
+input[type=submit]:hover {
+  background-color: #1FAD9F;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: white;
+  padding: 20px;
+  text-align: left;
+	
+/* Contact Form */
 
 
 @font-face {
